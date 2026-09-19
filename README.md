@@ -14,7 +14,7 @@ A simple personal portfolio website built using HTML5 and CSS3.
 
 ## How to View
 
-You can view the website by opening the `index.html` file in your browser.
+You can view the website by opening the (https://viji-tech08.github.io/portfolio-simple-website/) file in your browser.
 
 ##  Contributing
 
